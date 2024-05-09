@@ -1,0 +1,6 @@
+pandas==1.2.5
+streamlit==0.86.0
+requests==2.28.1
+streamlit-lottie==0.0.3
+
+python -m streamlit run hims_app.py
