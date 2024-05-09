@@ -1,4 +1,4 @@
-# HealthCare Database SIP
+# HOSPITAL INFORMATION MANAGEMENT SYSTEM
 
 ## Universal Health Care Database SIP ##
 
