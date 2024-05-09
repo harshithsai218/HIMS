@@ -1,6 +1,6 @@
 # HOSPITAL INFORMATION MANAGEMENT SYSTEM
 
-## Universal Health Care Database SIP ##
+## COLLEGE MICRO PROJECT
 
 ### Installation Steps : ###
 
